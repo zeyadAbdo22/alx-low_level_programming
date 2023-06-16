@@ -14,9 +14,9 @@ int main(void)
 		{
 			for (z = y + 1; z <= 57; z++)
 			{
-				putchar(z);
-				putchar(y);
 				putchar(x);
+				putchar(y);
+				putchar(z);
 				if (x == 55 && y == 56 && z == 57)
 					continue;
 				putchar(',');
