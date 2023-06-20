@@ -5,7 +5,6 @@
  *
  * Return: 0 (Success)
  */
-
 int main(void)
 {
 	char su[] = "_putchar";
@@ -13,7 +12,7 @@ int main(void)
 
 	for (x = 0; x <= 7; x++)
 	{
-		putchar(su[i]);
+		_putchar(su[i]);
 	}
 	_putchar('\n');
 	return (0);
