@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_prime_number -> A  function  returns 1 then the input integer
+ * is_prime_number -> a function that returns 1 if the input integer
  * is a prime number otherwise return 0
  *
  * @n: n is an int argument
@@ -15,7 +15,7 @@ int is_prime_number(int n)
 }
 
 /**
- * _prime -> A function that returns 1 then the input integer is  prime number,
+ * _prime -> a function that returns 1 if the input integer is a prime number,
  * otherwise return 0
  *
  * @i: i is an int argument.
