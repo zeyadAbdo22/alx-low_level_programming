@@ -5,10 +5,10 @@
 
 /**
  * add_node ->
- * function that adds a new node at the beginning of a list_t list.
+ * function adds new node in the beginning of a list_t list.
  *
- * @head: pointer to the list.
- * @str: string in the node.
+ * @head: pointer to  list.
+ * @str: string in  node.
  *
  * Return: the number of nodes.
  */
